@@ -1,0 +1,12 @@
+{
+  "type": "target_detection",
+  "timestamp": "20250302_083151",
+  "results": [
+    "```json\n{\n  \"annotations\": [\n    {\n      \"bbox_2d\": [65, 271, 264, 509],\n      \"label\": \"鸟\"\n    },\n    {\n      \"bbox_2d\": [183, 265, 326, 529],\n      \"label\": \"鸟\"\n    },\n    {\n      \"bbox_2d\": [278, 258, 507, 804],\n      \"label\": \"鸟\"\n    },\n    {\n      \"bbox_2d\": [414, 325, 570, 846],\n      \"label\": \"鸟\"\n    },\n    {\n      \"bbox_2d\": [459, 389, 627, 844],\n      \"label\": \"鸟\"\n    },\n    {\n      \"bbox_2d\": [562, 381, 724, 763],\n      \"label\": \"鸟\"\n    },\n    {\n      \"bbox_2d\": [645, 333, 773, 660],\n      \"label\": \"鸟\"\n    },\n    {\n      \"bbox_2d\": [780, 290, 927, 643],\n      \"label\": \"鸟\"\n    }\n  ]\n}\n```"
+  ],
+  "model": "qwen2.5-vl-72b-instruct",
+  "settings": {
+    "temperature": 0.7,
+    "batch_mode": false
+  }
+}

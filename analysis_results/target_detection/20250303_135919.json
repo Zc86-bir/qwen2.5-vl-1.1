@@ -1,0 +1,12 @@
+{
+  "type": "target_detection",
+  "timestamp": "20250303_135919",
+  "results": [
+    "```json\n{\n  \"annotations\": [\n    {\n      \"bbox_2d\": [0, 0, 1203, 812],\n      \"label\": \"公园\"\n    },\n    {\n      \"bbox_2d\": [416, 517, 792, 812],\n      \"label\": \"游乐设施\"\n    },\n    {\n      \"bbox_2d\": [435, 86, 595, 240],\n      \"label\": \"游乐设施\"\n    },\n    {\n      \"bbox_2d\": [743, 0, 944, 208],\n      \"label\": \"恐龙雕塑\"\n    },\n    {\n      \"bbox_2d\": [1077, 224, 1136, 354],\n      \"label\": \"自行车\"\n    },\n    {\n      \"bbox_2d\": [708, 1, 1036, 118],\n      \"label\": \"汽车\"\n    }\n  ]\n}\n```"
+  ],
+  "model": "qwen2.5-vl-72b-instruct",
+  "settings": {
+    "temperature": 0.7,
+    "batch_mode": false
+  }
+}

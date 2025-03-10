@@ -1,0 +1,20 @@
+{
+    "model": "yolov12s",
+    "weights": "",
+    "data": "data/coco.yaml",
+    "epochs": 300,
+    "batch_size": 16,
+    "img_size": [
+        640,
+        640
+    ],
+    "device": "",
+    "workers": 8,
+    "lr": 0.01,
+    "momentum": 0.937,
+    "weight_decay": 0.0005,
+    "save_dir": "runs/train",
+    "eval_only": false,
+    "conf_thres": 0.001,
+    "iou_thres": 0.65
+}

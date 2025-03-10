@@ -1,0 +1,12 @@
+{
+  "type": "target_detection",
+  "timestamp": "20250303_135021",
+  "results": [
+    "```json\n{\n  \"annotations\": [\n    {\n      \"bbox_2d\": [241, 96, 807, 925],\n      \"label\": \"狼\"\n    }\n  ]\n}\n```"
+  ],
+  "model": "qwen2.5-vl-7b-instruct",
+  "settings": {
+    "temperature": 0.7,
+    "batch_mode": false
+  }
+}

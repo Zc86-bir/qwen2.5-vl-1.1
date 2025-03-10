@@ -1,0 +1,12 @@
+{
+  "type": "scene_analysis",
+  "timestamp": "20250301_172816",
+  "results": [
+    "好的，请上传您所要分析的图片。"
+  ],
+  "model": "qwen-omni-turbo",
+  "settings": {
+    "temperature": 0.8,
+    "batch_mode": false
+  }
+}
